@@ -1,0 +1,8 @@
+,RID,smiles
+0,R0000000175,*CC(*)C=O
+1,R0000000894,*c1ccc(C=O)cc1
+2,R0000001392,*c1ccc(*)c(C=O)c1
+3,R0000001863,*c1cccc(C=O)c1
+4,R0000001982,*c1ccc(N=Nc2ccc(C=O)cc2)cc1
+5,R0000002331,*c1cc(*)c(O)c(C=O)c1
+6,R0000002339,*c1cc(C=O)cc(*)c1O
